@@ -14,9 +14,6 @@
             else{
                 echo "Failed to add new contact.";
             }
-            else{
-                echo "Please fill in all fields";
-            }
     }
 
 ?>
